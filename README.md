@@ -6,7 +6,7 @@ Web-osoite: http://bloodyhank-001-site1.etempurl.com/
   Reittiopas asuu tuolla toistaiseksi. Trial-periodia pitäis kestää kesään asti, joten uskoisin osoitteen toimivan, kun koodihaastetta tarkastellaan. 
   Palvelin herää alkuun vähän hitaasti. 
 
-Käynnistysohjeet paikallisesti: npm install -> ng serve
+Käynnistysohjeet paikallisesti:cd <root_folder> -> npm install -> ng serve
 
 Kuvaus:
 
