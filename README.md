@@ -1,4 +1,4 @@
-Käytetyt teknologiat: Angular 8 (Material Design For Angular -UI-paketilla varustettuna)
+Käytetyt teknologiat: Angular 8 (Material Design For Angular -UI-paketilla varustettuna), TypeScript
 
 Käyttöjärjestelmä: Windows 10
 
